@@ -36,7 +36,7 @@ A customizable feedback collection widget with admin dashboard, built with Next.
    # download the zip file
    unzip feedback_widget.zip
    # or clone the repository
-   git clone https://github.com/nikzero6/feedback_widget.git
+   git clone https://github.com/Nikzero6/feedback_widget.git
    # go to the project directory
    cd feedback_widget
    # install the dependencies

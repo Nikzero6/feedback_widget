@@ -164,3 +164,16 @@ src/
 - **Questions**: id, text, type, options, isPublished, timestamps
 - **Responses**: id, questionId, answer, metadata, timestamps
 - **Relations**: One-to-many between questions and responses
+
+## Screenshots
+
+### Admin Dashboard
+
+![landing page](./screenshots/landing.png)
+![login](./screenshots/login.png)
+![questions](./screenshots/questions.png)
+![responses](./screenshots/responses.png)
+
+### Widget
+
+![Widget](./screenshots/widget.png)
